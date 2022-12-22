@@ -1,38 +1,31 @@
-## Data Analytics Project Portfolio
 
-### Introduction
+### Hi there 👋 Welcome to My Data World 
 
-Use this template to create a portfolio quicky. 
+<img src="https://github.com/Tris-Nguyen/Tris-Nguyen/blob/main/74pZ.gif">
+<h1 align="center">Hi 👋, I'm Huong (Tris) Nguyen</h1>
+<h3 align="center">I am a Chemical Lab Technician and switching into Data World</h3>
+<img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
 
-### Installation
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tris-nguyen&label=Profile%20views&color=0e75b6&style=flat" alt="tris-nguyen" /> </p>
 
-See full step by step tutorial [on Medium](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd).
-___
+- 🔭 I’m currently participating in [Data Analytics Accelerator Bootcamp](https://www.datacareerjumpstart.com/)
 
-You can use the editor on GitHub to maintain, edit, and preview the content for your website in Markdown files.
+- 🌱 I’m currently learning **Excel, SQL and Tableau**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- 👨‍💻 All of my projects are available at [https://tris-nguyen.github.io/](https://tris-nguyen.github.io/)
 
-### Markdown
+- 📫 How to reach me **nguyenthienhuong30@gmail.com**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- ⚡ Fun fact **I love Taekwondo and have 2 cats, 2 dogs and 38 fish at home.**
 
-```markdown
-Syntax highlighted code block
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/huong (tris) nguyen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="huong (tris) nguyen" height="30" width="40" /></a>
+</p>
 
-# Header 1
-## Header 2
-### Header 3
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> </p>
 
-- Bulleted
-- List
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tris-nguyen&show_icons=true&locale=en&layout=compact" alt="tris-nguyen" /></p>
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tris-nguyen&show_icons=true&locale=en" alt="tris-nguyen" /></p>
